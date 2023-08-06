@@ -8,3 +8,4 @@
 RufaydaEqailan/RufaydaEqailan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://api.daily.dev/devcards/69748809a17b419e8c123106f47a5ea1.png?r=kdd
